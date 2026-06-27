@@ -120,6 +120,7 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 **Ashiba .C**
+
 Computer Science Student
 
 ---
