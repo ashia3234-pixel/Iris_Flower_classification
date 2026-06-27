@@ -15,6 +15,7 @@ A Machine Learning web application that predicts the species of an Iris flower b
 This project demonstrates the complete machine learning workflow:
 
 - Load and explore the Iris dataset
+- Visualize the dataset
 - Train a Random Forest Classifier
 - Evaluate model performance
 - Save the trained model using Joblib and Pickle
@@ -52,9 +53,9 @@ This project demonstrates the complete machine learning workflow:
 Iris_Flower_classification/
 │
 ├── app.py
+├── train_model.ipynb
 ├── train_model.py
 ├── requirements.txt
-├── runtime.txt
 ├── .python-version
 ├── .gitignore
 │
@@ -119,8 +120,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Ashiba .C**
-
+**Ashiba .C**  
 Computer Science Student
 
 ---
